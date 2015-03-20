@@ -1,0 +1,57 @@
+
+body {
+	padding: 20px 10px;
+	font-family: Tahoma;
+	max-width: 2000px;
+	margin: 0 auto;   
+	font-size: 1.4em;
+}                  
+
+h1 {
+	text-align: center;
+	color: black;
+}
+
+p {
+	margin: 10px 0;
+}
+
+
+
+li {
+	font-size: 20px;
+	line-height: 44px; 
+}
+
+.lesson {
+	background-color: steelblue;
+	border-radius: 20px;
+	color: white;
+	padding: 15px;
+	margin: 15px auto;
+}
+
+h2 {
+	margin: 20px;
+}
+
+.concept {
+	background-color: lightgrey;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: black;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
